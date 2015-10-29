@@ -1,0 +1,23 @@
+name: Dustin Luke Nelson
+favicon: null
+layout_spectrum: 0.7153782204259187
+typography_spectrum: 0.6615727266762406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.38647080049850047
+  lightness: 0.7303053103387356
+  saturation: 0.1173744082916528
+  rhythmicContrast: 0.8711624555289745
+purpose: []
