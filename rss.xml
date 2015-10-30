@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dustin Luke Nelson]]></title>
         <description><![CDATA[Dustin Luke Nelson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dustin-luke-nelson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 16:54:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 03:19:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dustin-luke-nelson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Poetry]]></title>
+            <description><![CDATA[<h1>Poetry</h1>]]></description>
+            <link>https://thegrid.ai/dustin-luke-nelson/poetry/index.html</link>
+            <guid isPermaLink="false">17f251c6-514a-4a1a-b650-c9d47c2a86b0</guid>
+            <pubDate>Fri, 30 Oct 2015 03:18:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Poems]]></title>
             <description><![CDATA[<article><h1>Poems</h1><p>Recently Published Poems</p></article>]]></description>
-            <link>undefinedpoems/index.html</link>
+            <link>https://thegrid.ai/dustin-luke-nelson/poems/index.html</link>
             <guid isPermaLink="false">9bd12b61-54ac-4ebb-b6b1-ddcf31df8a1e</guid>
             <pubDate>Thu, 29 Oct 2015 16:54:45 GMT</pubDate>
         </item>
