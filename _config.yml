@@ -1,6 +1,6 @@
 name: Dustin Luke Nelson
 favicon: null
-layout_spectrum: 0.25368
+layout_spectrum: 1
 typography_spectrum: 1
 title: Dustin Luke Nelson
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#332218'
-    - '#694f38'
-    - '#9b7c79'
-    - '#c4beca'
-    - '#dbd6dc'
+    - '#574842'
+    - '#f6f7f3'
+    - '#877c78'
+    - '#72615b'
+    - '#d9d9d5'
   brandStrength: 0.9375
   lightness: 1
-  saturation: 0.25
+  saturation: 0.75
   rhythmicContrast: 0
 purpose: []
