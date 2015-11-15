@@ -4,7 +4,7 @@
         <description><![CDATA[Dustin Luke Nelson]]></description>
         <link>https://thegrid.ai/dustin-luke-nelson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 05:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 05:25:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dustin-luke-nelson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/dustin-luke-nelson/poetry/index.html</link>
             <guid isPermaLink="false">17f251c6-514a-4a1a-b650-c9d47c2a86b0</guid>
             <pubDate>Sun, 15 Nov 2015 05:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poems]]></title>
-            <description><![CDATA[<article><h1>Poems</h1><p>Recently Published Poems</p></article>]]></description>
-            <link>https://thegrid.ai/dustin-luke-nelson/poems/index.html</link>
-            <guid isPermaLink="false">9bd12b61-54ac-4ebb-b6b1-ddcf31df8a1e</guid>
-            <pubDate>Thu, 29 Oct 2015 16:54:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
