@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dustin Luke Nelson]]></title>
+        <description><![CDATA[Dustin Luke Nelson]]></description>
+        <link>https://thegrid.ai/dustin-luke-nelson/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 Nov 2015 05:24:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dustin-luke-nelson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63ea9cfb-919c-4e31-9a4f-22498f09288c.jpg">]]></description>
+            <link>https://thegrid.ai/dustin-luke-nelson/f978364a-0091-4d23-8015-803a424dd78e/index.html</link>
+            <guid isPermaLink="false">f978364a-0091-4d23-8015-803a424dd78e</guid>
+            <pubDate>Sun, 15 Nov 2015 05:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poetry]]></title>
+            <description><![CDATA[<article><h1>Poetry</h1><p>My poems</p></article>]]></description>
+            <link>https://thegrid.ai/dustin-luke-nelson/poetry/index.html</link>
+            <guid isPermaLink="false">17f251c6-514a-4a1a-b650-c9d47c2a86b0</guid>
+            <pubDate>Fri, 30 Oct 2015 03:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poems]]></title>
+            <description><![CDATA[<article><h1>Poems</h1><p>Recently Published Poems</p></article>]]></description>
+            <link>https://thegrid.ai/dustin-luke-nelson/poems/index.html</link>
+            <guid isPermaLink="false">9bd12b61-54ac-4ebb-b6b1-ddcf31df8a1e</guid>
+            <pubDate>Thu, 29 Oct 2015 16:54:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
