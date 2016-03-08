@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-08T05:26:01.049Z'
-dateModified: '2016-03-08T05:13:29.904Z'
+datePublished: '2016-03-08T05:32:32.372Z'
+dateModified: '2016-03-08T05:32:32.125Z'
 title: Performances
 sourcePath: _posts/2015-11-15-performances.md
 published: true
