@@ -1,16 +1,17 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-15T13:00:48.277Z'
-dateModified: '2015-11-15T06:00:28.138Z'
+datePublished: '2016-03-08T05:26:01.049Z'
+dateModified: '2016-03-08T05:13:29.904Z'
 title: Performances
 sourcePath: _posts/2015-11-15-performances.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
