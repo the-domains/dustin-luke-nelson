@@ -4,7 +4,7 @@
         <description><![CDATA[Dustin Luke Nelson]]></description>
         <link>https://thegrid.ai/dustin-luke-nelson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 23:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 19:52:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dustin-luke-nelson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Poetry]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/dustin-luke-nelson/in-the-office-hours-of-the-polar-vortex/index.html</link>
             <guid isPermaLink="false">10fa4879-6d23-451a-bb3b-8805e9414d0d</guid>
             <pubDate>Tue, 08 Mar 2016 05:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social]]></title>
+            <description><![CDATA[<h1>Social</h1>]]></description>
+            <link>https://thegrid.ai/dustin-luke-nelson/social/index.html</link>
+            <guid isPermaLink="false">acc2e0fe-00f2-45c4-9074-a4bb411bfc4e</guid>
+            <pubDate>Thu, 10 Mar 2016 19:52:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
