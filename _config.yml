@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Performance
+    id: 88a4a062-40ae-4167-b684-9b1bf77f7203
+    type: content
 favicon: null
 title: Dustin Luke Nelson
 purpose: []
