@@ -32,6 +32,9 @@ navigation:
   - name: Performance
     id: 88a4a062-40ae-4167-b684-9b1bf77f7203
     type: content
+  - name: CV
+    id: 764d2ee9-a9b9-4b12-b8ff-8d0837374be8
+    type: content
 favicon: null
 title: Dustin Luke Nelson
 purpose: []
