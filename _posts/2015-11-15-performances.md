@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T07:03:31.288Z'
+datePublished: '2016-08-24T07:05:51.299Z'
 sourcePath: _posts/2015-11-15-performances.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T07:03:30.622Z'
+dateModified: '2016-08-24T07:05:50.810Z'
 title: Performances
 publisher: {}
 description: BATTLESHIP POTEMKIN
