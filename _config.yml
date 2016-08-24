@@ -35,6 +35,9 @@ navigation:
   - name: CV
     id: 764d2ee9-a9b9-4b12-b8ff-8d0837374be8
     type: content
+  - name: Poetry
+    id: 17f251c6-514a-4a1a-b650-c9d47c2a86b0
+    type: content
 favicon: null
 title: Dustin Luke Nelson
 purpose: []
