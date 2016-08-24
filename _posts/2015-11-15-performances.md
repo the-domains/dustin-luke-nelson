@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T06:54:05.329Z'
+datePublished: '2016-08-24T06:57:50.279Z'
 sourcePath: _posts/2015-11-15-performances.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T06:54:05.013Z'
+dateModified: '2016-08-24T06:57:49.929Z'
 title: ''
 publisher: {}
 description: ''
@@ -29,11 +29,11 @@ _type: Article
 
 **APPLAUSE**
 
-2014 - [Performance][0] of "APPLAUSE" at the Walker Art Center's Open Field.
+2014 - [World-record][0] holding [performance][1] of "APPLAUSE" at the Walker Art Center's Open Field.
 
 **STRIKE TWO**
 
-**I WAS DISTRACTED **([website][1])
+**I WAS DISTRACTED **([website][2])
 
 2014 - Interactive mail art event
 
@@ -41,5 +41,6 @@ _type: Article
 
 
 
-[0]: http://bit.ly/1upQ8lE
-[1]: http://bit.ly/2bfxMON
+[0]: http://bit.ly/1ulfUaF
+[1]: http://bit.ly/1upQ8lE
+[2]: http://bit.ly/2bfxMON
