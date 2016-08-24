@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T06:57:50.279Z'
+datePublished: '2016-08-24T07:01:18.629Z'
 sourcePath: _posts/2015-11-15-performances.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T06:57:49.929Z'
+dateModified: '2016-08-24T07:01:18.287Z'
 title: ''
 publisher: {}
 description: ''
@@ -33,7 +33,9 @@ _type: Article
 
 **STRIKE TWO**
 
-**I WAS DISTRACTED **([website][2])
+2014 - Video performance, published with [Gauss PDF][2]
+
+**I WAS DISTRACTED **([website][3])
 
 2014 - Interactive mail art event
 
@@ -43,4 +45,5 @@ _type: Article
 
 [0]: http://bit.ly/1ulfUaF
 [1]: http://bit.ly/1upQ8lE
-[2]: http://bit.ly/2bfxMON
+[2]: http://bit.ly/QiIS7P
+[3]: http://bit.ly/2bfxMON
